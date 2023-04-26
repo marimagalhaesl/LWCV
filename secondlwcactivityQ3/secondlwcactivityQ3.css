@@ -1,0 +1,15 @@
+h1 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.container {
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px 3px black;
+}
+
+.box {
+    background-color: #A5A1BF;
+    box-shadow: 2px 2px 2px black;
+    border-radius: 2px;
+}
